@@ -1,0 +1,10 @@
+main{
+    background-color: #ccc;
+}
+main p{
+    margin: 0 auto;
+    max-width: 1140px;
+    font-size: 18px;
+    text-align: center;
+    line-height: 35px;
+}
