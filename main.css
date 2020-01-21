@@ -12,3 +12,7 @@ main p{
     text-align: center;
     line-height: 35px;
 }
+footer{
+    font-size: 45px;
+    background-color: yellow;
+}
